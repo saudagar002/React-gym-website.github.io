@@ -1,0 +1,256 @@
+.container{
+
+    margin-top: 30px;
+}
+.container h1{
+
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(rgba(150, 11, 11, 0.173) );
+}
+
+.card5{
+    height: 31rem;
+    width: 25.5rem;
+    background-color: #EFF5F9;
+    border-radius: 10px;
+}
+
+.img5{
+    height: 10rem;
+    width: 30rem;
+}
+
+.img5 img{
+    border-radius: 10px 10px 0 0;
+    height: 16rem;
+    width: 25.5rem;
+    object-fit: cover;
+}
+
+.content-para2{
+    margin-top: 7rem;
+    padding: 5px 20px 0px 20px;
+}
+
+.content-para2 h3{
+    font-weight: 600;
+
+}
+
+.content-para2 h3:hover{
+    color: darkslateblue;
+}
+
+.img6{
+    height: 2rem;
+    width: 8rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.img6 img{
+    height: 2rem;
+    width: 2rem;
+    object-fit: cover;
+    border-radius: 50%;
+   
+}
+
+.img6 h6{
+    width: 8rem;
+    margin-top: 9px;
+    margin-left: 9px;
+    color: #848E9F;
+    font-size: 15px;
+    
+}
+
+.no{
+    display: flex;
+    flex-direction: row;
+    margin-top: 9px;
+    float: right;
+}
+
+.no i{
+    color: #021f23;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.slide{
+    height: 500px;
+    width: 856px;
+    background-color: #ffffff;
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.car1{
+    height: 470.800px;
+    width: 856px;
+}
+
+.card3{
+    height: 500px;
+    width: 856px;
+    object-fit: cover;
+}
+
+.i{
+    position: absolute;
+    top: 7.5rem;
+    right: 3rem;
+    color: #021315;
+    background-color: #EFF5F9;
+    padding: 8px;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+   
+}
+
+.image{
+    position: relative;
+    
+}
+
+.carousel-indicators {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-indicators .active{
+    background-color: #dd13a4 !important;
+    height: 2rem !important;
+    width: 2rem !important;
+    
+}
+
+.carousel-indicators [data-bs-target] {
+    opacity: 1 !important;
+    height: 1.1rem;
+    width: 1.1rem;
+    border-radius: 50%;
+    background-color: #EFF5F9;
+    border: 2px solid #012227;
+    transition: all .6s ease;
+}
+
+.carousal2{
+    height: 50vh !important;
+    width: 50vw !important;
+    background-color: antiquewhite;
+}
+
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+
+.o-docter{
+    margin-top: 5rem;
+}
+
+
+h4{
+    color: #1D2A4D;
+    font-size: 25px;
+    font-weight: 700;
+
+    
+}
+.slide3{
+    
+    width: 1296px;
+    height: 350px;
+}
+
+.d-card{
+    width: 625.5px;
+    height:350px ;
+    background-color: #EFF5F9;
+    border-radius: 15px;
+}
+
+.card-img{
+    width: 260.625px;
+    height: 350px;
+}
+
+.card-img img{
+    width: 260.625px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 15px 0 0 15px;
+}
+
+.card-content1{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 1rem;
+}
+
+.card-content1 h5{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.card-content1 h6{
+    color: black;
+    font-style: italic;
+}
+
+.card-content1 p{
+    margin-top: 1.5rem;
+    color: #848E9F;
+}
+
+.media-card{
+    margin-left: 1rem;
+}
+
+.media-card i{
+    background-color: #1D2A4D;
+    color: white;
+    border-radius: 50%;
+    padding: 13px 13px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.n2 i{
+    color: #ffffff !important;
+    background-color: #190d17 !important;
+    padding: 14px 15px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    transition: all .3s ease;
+}
+
+.p2 i{
+    color: #ffffff !important;
+    background-color: #1b061a !important;
+    padding: 14px 15px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    transition: all .3s ease;
+}
+
+
+.n2 i:hover{
+    background-color: #1D2A4D !important;
+}
+.p2 i:hover{
+    background-color: #1D2A4D !important;
+}
